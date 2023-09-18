@@ -1,0 +1,1 @@
+bin/python autoclicker.py
