@@ -9,6 +9,8 @@ For linux you have to give your user a permission to execute "programStart.sh".
 
 `chmod +x programStart.sh`
 
+And run it: `./programStart.sh`
+
 ### Key Bindings
 
 | Ctrl + Alt + J | start/stop the clicker |
