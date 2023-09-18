@@ -5,6 +5,10 @@ The project is created using the venv -- Python's virtual environment. In order 
 
 There are some one-line scripts that do this for you under Linux ("programStart.sh") and under Windows ("programStart.bat").
 
+For linux you have to give your user a permission to execute "programStart.sh".
+
+`chmod +x programStart.sh`
+
 ### Key Bindings
 
 | Ctrl + Alt + J | start/stop the clicker |
